@@ -1,4 +1,4 @@
 # quote generator
 
-字体： https://fonts.google.com/
-背景： https://heropatterns.com/
+[live demo](https://cyh-quote-genertor.netlify.app/)
+[github](https://github.com/cyhfe/quote-generator)
